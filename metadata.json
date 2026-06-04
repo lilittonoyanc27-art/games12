@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Future Tense: Gor & Gayane Game",
+  "description": "Learn Spanish future tense (El Tiempo Futuro) from Armenian, playing 6 competitive games with Gor and Gayane, featuring interactive scores, grammar guides, and character duels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
